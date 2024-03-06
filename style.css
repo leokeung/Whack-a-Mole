@@ -1,0 +1,14 @@
+#mainContainer {
+  width: 500px;
+  height: 500px;
+
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#startbtn {
+  border-style: solid;
+  font-size: 42px;
+}
